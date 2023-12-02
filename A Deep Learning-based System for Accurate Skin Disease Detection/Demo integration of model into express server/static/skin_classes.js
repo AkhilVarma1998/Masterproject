@@ -1,0 +1,27 @@
+const skin_class = {
+    0: 'Acne and Rosacea Photos',
+    1: 'Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions',
+    2: 'Atopic Dermatitis Photos',
+    3: 'Bullous Disease Photos',
+    4: 'Cellulitis Impetigo and other Bacterial Infections',
+    5: 'dio',
+    6: 'Eczema Photos',
+    7: 'Exanthems and Drug Eruptions',
+    8: 'Hair Loss Photos Alopecia and other Hair Diseases',
+    9: 'Herpes HPV and other STDs Photos',
+    10: 'Light Diseases and Disorders of Pigmentation',
+    11: 'Lupus and other Connective Tissue diseases',
+    12: 'Melanoma Skin Cancer Nevi and Moles',
+    13: 'Nail Fungus and other Nail Disease',
+    14: 'Poison Ivy Photos and other Contact Dermatitis',
+    15: 'Psoriasis pictures Lichen Planus and related diseases',
+    16: 'Scabies Lyme Disease and other Infestations and Bites',
+    17: 'Seborrheic Keratoses and other Benign Tumors',
+    18: 'Systemic Disease',
+    19: 'Tinea Ringworm Candidiasis and other Fungal Infections',
+    20: 'Urticaria Hives',
+    21: 'Vascular Tumors',
+    22: 'Vasculitis Photos',
+    23: 'Warts Molluscum and other Viral Infections'
+
+};
